@@ -1,0 +1,8 @@
+{
+    "sketch_path": "C:\\Users\\Elisio\\Documents\\wandi-studio\\wandicode",
+    "avrdude_path": "C:\\Users\\Elisio\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino17/bin/avrdude",
+    "avrdude_conf_path": "C:\\Users\\Elisio\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino17/etc/avrdude.conf",
+    "hex_file_path": "C:\\Users\\Elisio\\AppData\\Local\\Temp\\arduino\\sketches\\example.hex",
+    "port": "COM19",
+    "fqbn": "arduino:avr:uno"
+}
